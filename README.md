@@ -1,6 +1,6 @@
 # DeepCook
 
-This project provides a simple Android example application that scans a receipt image, extracts text using Google ML Kit, detects ingredients, and suggests recipes from several cuisines.
+This project provides a simple Android example application written in **Java** with Gradle scripts in **Groovy**. It scans a receipt image, extracts text using Google ML Kit, detects ingredients, and suggests recipes from several cuisines.
 
 ## Setup
 1. Open the project with Android Studio.
